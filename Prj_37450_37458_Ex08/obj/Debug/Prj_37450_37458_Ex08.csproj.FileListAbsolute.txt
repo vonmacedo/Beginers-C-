@@ -1,0 +1,8 @@
+C:\Users\João Vitor\Downloads\prj37450 _37458_ lista01\prj37450_37458_ lista01\Prj_37450_37458_Ex08\bin\Debug\Prj_37450_37458_Ex08.exe.config
+C:\Users\João Vitor\Downloads\prj37450 _37458_ lista01\prj37450_37458_ lista01\Prj_37450_37458_Ex08\bin\Debug\Prj_37450_37458_Ex08.exe
+C:\Users\João Vitor\Downloads\prj37450 _37458_ lista01\prj37450_37458_ lista01\Prj_37450_37458_Ex08\bin\Debug\Prj_37450_37458_Ex08.pdb
+C:\Users\João Vitor\Downloads\prj37450 _37458_ lista01\prj37450_37458_ lista01\Prj_37450_37458_Ex08\obj\Debug\Prj_37450_37458_Ex08.csproj.AssemblyReference.cache
+C:\Users\João Vitor\Downloads\prj37450 _37458_ lista01\prj37450_37458_ lista01\Prj_37450_37458_Ex08\obj\Debug\Prj_37450_37458_Ex08.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Vitor\Downloads\prj37450 _37458_ lista01\prj37450_37458_ lista01\Prj_37450_37458_Ex08\obj\Debug\Prj_37450_37458_Ex08.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\Downloads\prj37450 _37458_ lista01\prj37450_37458_ lista01\Prj_37450_37458_Ex08\obj\Debug\Prj_37450_37458_Ex08.exe
+C:\Users\João Vitor\Downloads\prj37450 _37458_ lista01\prj37450_37458_ lista01\Prj_37450_37458_Ex08\obj\Debug\Prj_37450_37458_Ex08.pdb

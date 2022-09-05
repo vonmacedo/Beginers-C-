@@ -1,0 +1,5 @@
+C:\prj37450 e 37458 lista01\Prj_37450_37458_Exerc03\Prj_37450_37458_Exerc03\bin\Debug\Prj_37450_37458_Exerc03.exe.config
+C:\prj37450 e 37458 lista01\Prj_37450_37458_Exerc03\Prj_37450_37458_Exerc03\bin\Debug\Prj_37450_37458_Exerc03.exe
+C:\prj37450 e 37458 lista01\Prj_37450_37458_Exerc03\Prj_37450_37458_Exerc03\bin\Debug\Prj_37450_37458_Exerc03.pdb
+C:\prj37450 e 37458 lista01\Prj_37450_37458_Exerc03\Prj_37450_37458_Exerc03\obj\Debug\Prj_37450_37458_Exerc03.exe
+C:\prj37450 e 37458 lista01\Prj_37450_37458_Exerc03\Prj_37450_37458_Exerc03\obj\Debug\Prj_37450_37458_Exerc03.pdb
